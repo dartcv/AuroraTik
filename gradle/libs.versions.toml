@@ -1,5 +1,5 @@
 [versions]
-agp = "8.13.1"
+agp = "9.1.0"
 kotlin = "2.2.21"
 dexkit = "2.0.7"
 kavaref-core = "1.0.2"
